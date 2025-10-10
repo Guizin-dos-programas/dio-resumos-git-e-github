@@ -11,7 +11,7 @@ Repositório para armazenar meus estudos de Git e Github no Dio. [Digital Innova
 
 | Aulas | Resumos|
 |-------|--------|
-|Gravando alterações no Repositório local|[Resumos]()|
+|Gravando alterações no Repositório local|[Resumo]()|
 
 ```
 git init
